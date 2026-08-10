@@ -34,8 +34,7 @@ Tapping a character navigates smoothly to a details screen, displaying comprehen
 
 ### 🎥 App Demo Video
 
-<video src="https://github.com/TahaKospar/ApiCalls/raw/main/screanshots/ToDoApp.mp4" width="600" controls autoplay muted></video>
-
+[👉 Click here to watch the full Video Demo](https://github.com/TahaKospar/ApiCalls/blob/main/screanshots/ToDoApp.mp4)
 ## 🛠️ Tech Stack
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Language:** Dart
