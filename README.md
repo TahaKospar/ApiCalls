@@ -32,6 +32,10 @@ Tapping a character navigates smoothly to a details screen, displaying comprehen
 <img width="513" height="1073" alt="4" src="https://github.com/user-attachments/assets/e7c09884-605c-415e-95da-4b1b845f55a7" />
 <img width="486" height="1057" alt="5" src="https://github.com/user-attachments/assets/e841586e-4be7-470b-a383-667b4343ec51" />
 
+### 🎥 App Demo Video
+
+<video src="https://github.com/TahaKospar/ApiCalls/raw/main/screanshots/ToDoApp.mp4" width="600" controls autoplay muted></video>
+
 ## 🛠️ Tech Stack
 - **Framework:** [Flutter](https://flutter.dev/)
 - **Language:** Dart
